@@ -1,0 +1,56 @@
+{
+  "resource": "users",
+  "fields": [
+    {
+      "label": "ID",
+      "key": "ID",
+      "position": 0,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "Status",
+      "key": "status",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 4,
+      "presentation": "select",
+      "restrictions": {
+        "required": false,
+        "enums": ["active", "inactive", "suspended"]
+      },
+      "inUse": true
+    },
+    {
+      "label": "Name",
+      "key": "name",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 1,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "Email",
+      "key": "email",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 2,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "Phone",
+      "key": "phone",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 3,
+      "presentation": "currency",
+      "inUse": false
+    }
+  ]
+}

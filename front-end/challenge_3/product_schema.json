@@ -1,0 +1,111 @@
+{
+  "resource": "products",
+  "fields": [
+    {
+      "label": "ID",
+      "key": "ID",
+      "position": 0,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "Status",
+      "key": "status",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 6,
+      "presentation": "select",
+      "restrictions": {
+        "required": false,
+        "enums": [
+          "drafted",
+          "published",
+          "scheduled",
+          "expired",
+          "archived"
+        ]
+      },
+      "inUse": true
+    },
+    {
+      "label": "Name",
+      "key": "name",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 1,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "Description",
+      "key": "description",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 2,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "UPC",
+      "key": "upc",
+      "position": 3,
+      "presentation": "text",
+      "inUse": true
+    },
+    {
+      "label": "MSRP",
+      "key": "msrp",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 4,
+      "presentation": "currency",
+      "inUse": false
+    },
+    {
+      "label": "Price",
+      "key": "price",
+      "listOptions": {
+        "canList": true
+      },
+      "position": 5,
+      "presentation": "currency",
+      "inUse": true
+    },
+    {
+      "label": "Features",
+      "key": "features",
+      "defaultValue": "",
+      "primitive": "nested",
+      "position": 0,
+      "presentation": "nested",
+      "fields": [
+        {
+          "label": "Feature Label",
+          "key": "label",
+          "position": 0,
+          "presentation": "textarea",
+          "inUse": true
+        },
+        {
+          "label": "Feature Description",
+          "key": "description",
+          "position": 0,
+          "presentation": "textarea",
+          "inUse": false
+        },
+        {
+          "label": "Feature Sort Order",
+          "key": "sortOrder",
+          "position": 0,
+          "presentation": "text",
+          "inUse": false
+        }
+      ],
+      "inUse": false
+    }
+  ]
+}
