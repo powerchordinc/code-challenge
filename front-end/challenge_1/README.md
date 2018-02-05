@@ -1,6 +1,6 @@
 # Challenge 1
 
-Build a React application that consists of two routes. One to list products and one to show the product details.
+Build a React and Flow application that consists of two routes. One to list products and one to show the product details.
 
 The two routes should be:
 - `/` - showing the list of products
