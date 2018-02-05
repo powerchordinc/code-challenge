@@ -82,6 +82,8 @@ Since our application is schema-based, it should be able to handle any data that
 
 Please use git and separate your work on the challenges by commit or branch.
 
+To help get yourself started, and avoid any lengthy/tedious setup, feel free to use any "base" project that you'd like. We have a simple one here: [javascript-test](https://github.com/powerchordinc/javascript-test).
+
 # Fin
 ---
 
