@@ -5,7 +5,7 @@
       "label": "ID",
       "key": "ID",
       "position": 0,
-      "presentation": "text"
+      "presentation": "number"
     },
     {
       "label": "Status",

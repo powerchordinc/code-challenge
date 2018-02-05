@@ -27,9 +27,9 @@ WIP - [view instructions here](https://github.com/powerchordinc/code-challenge/t
 # Additional Requirements
 ---
 
-Please use git and separate your work on the challenges by commit or branch.
+Please use git and separate your work on the challenges by branch.
 
-To help get yourself started, and avoid any lengthy/tedious setup, feel free to use any "base" project that you'd like.
+To help get yourself started, and avoid any lengthy/tedious setup, feel free to use any "base" project that you'd like. We recommend [create-react-app](https://github.com/facebook/create-react-app).
 
 # Fin
 ---

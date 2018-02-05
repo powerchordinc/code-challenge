@@ -1,153 +1,109 @@
 [
   {
-    "ID": "bb1c9dd59d05402e9fda1e2a",
-    "title": "Awesome Metal Chips",
+    "ID": 1,
     "status": "scheduled",
-    "values": {
-      "upc": "BA776009705700629004",
-      "msrp": "929.11",
-      "name": "Handcrafted Rubber Pizza",
-      "price": "283.63",
-      "description": "Unde voluptatem nihil. Repellendus est ab. Rerum nam nemo dignissimos quia corporis expedita. Debitis omnis enim corporis et assumenda."
-    }
+    "upc": "BA776009705700629004",
+    "name": "Handcrafted Rubber Pizza",
+    "price": "283.63",
+    "description":
+      "Unde voluptatem nihil. Repellendus est ab. Rerum nam nemo dignissimos quia corporis expedita. Debitis omnis enim corporis et assumenda."
   },
   {
-    "ID": "d445fe3e6359462fa988cd49",
-    "title": "Handmade Plastic Bacon",
+    "ID": 2,
     "status": "scheduled",
-    "values": {
-      "upc": "PT56099090506183082764604",
-      "msrp": "903.69",
-      "name": "Practical Wooden Chicken",
-      "price": "167.43",
-      "description":
-        "Corrupti eaque fuga consequatur officia illum et rem excepturi. Sunt non et consequatur adipisci sit minima magnam saepe sunt. Aspernatur facere mollitia laboriosam deserunt reiciendis."
-    }
+    "upc": "PT56099090506183082764604",
+    "name": "Practical Wooden Chicken",
+    "price": "167.43",
+    "description":
+      "Corrupti eaque fuga consequatur officia illum et rem excepturi. Sunt non et consequatur adipisci sit minima magnam saepe sunt. Aspernatur facere mollitia laboriosam deserunt reiciendis."
   },
   {
-    "ID": "21431ec3c908485095b76836",
-    "title": "Practical Plastic Shoes",
+    "ID": 3,
     "status": "scheduled",
-    "values": {
-      "upc": "MR3407006043600020078410016",
-      "msrp": "252.54",
-      "name": "Handmade Granite Salad",
-      "price": "281.60",
-      "description":
-        "A aliquam explicabo a eum. Tempora sit voluptas sed fuga voluptatum consequatur explicabo fugiat corrupti. Quia tempora incidunt sit. Esse placeat sit cumque fugit enim labore."
-    }
+    "upc": "MR3407006043600020078410016",
+    "name": "Handmade Granite Salad",
+    "price": "281.60",
+    "description":
+      "A aliquam explicabo a eum. Tempora sit voluptas sed fuga voluptatum consequatur explicabo fugiat corrupti. Quia tempora incidunt sit. Esse placeat sit cumque fugit enim labore."
   },
   {
-    "ID": "db4529c836a74e14b90ac48f",
-    "title": "Handcrafted Frozen Keyboard",
+    "ID": 4,
     "status": "published",
-    "values": {
-      "upc": "DO44DTFD51423701807600400268",
-      "msrp": "515.10",
-      "name": "Small Fresh Cheese",
-      "price": "779.57",
-      "description":
-        "Quia voluptas deleniti ipsam et consequatur saepe rem aut. Hic totam corporis consectetur corporis culpa fugit est. Natus saepe totam aut consequuntur nesciunt autem harum atque."
-    }
+    "upc": "DO44DTFD51423701807600400268",
+    "name": "Small Fresh Cheese",
+    "price": "779.57",
+    "description":
+      "Quia voluptas deleniti ipsam et consequatur saepe rem aut. Hic totam corporis consectetur corporis culpa fugit est. Natus saepe totam aut consequuntur nesciunt autem harum atque."
   },
   {
-    "ID": "c39d6a87459141e88fa6bef1",
-    "title": "Ergonomic Cotton Gloves",
+    "ID": 5,
     "status": "published",
-    "values": {
-      "upc": "PK6797262083809303660825",
-      "msrp": "358.56",
-      "name": "Refined Frozen Soap",
-      "price": "33.39",
-      "description": "Veritatis et ut nulla. Delectus repellat et consectetur ex rerum a omnis hic. Ea cupiditate consectetur."
-    }
+    "upc": "PK6797262083809303660825",
+    "name": "Refined Frozen Soap",
+    "price": "33.39",
+    "description":
+      "Veritatis et ut nulla. Delectus repellat et consectetur ex rerum a omnis hic. Ea cupiditate consectetur."
   },
   {
-    "ID": "96e9e0cf6f384c8880b7bb67",
-    "title": "Handmade Metal Gloves",
+    "ID": 6,
     "status": "archived",
-    "values": {
-      "upc": "ME90630752900190600983",
-      "msrp": "626.81",
-      "name": "Licensed Frozen Computer",
-      "price": "36.66",
-      "description":
-        "Pariatur consequatur nihil repudiandae non sit voluptas. Voluptatibus numquam perspiciatis voluptatem quaerat quo. Corporis voluptatem voluptas voluptatem officiis nam distinctio."
-    }
+    "upc": "ME90630752900190600983",
+    "name": "Licensed Frozen Computer",
+    "price": "36.66",
+    "description":
+      "Pariatur consequatur nihil repudiandae non sit voluptas. Voluptatibus numquam perspiciatis voluptatem quaerat quo. Corporis voluptatem voluptas voluptatem officiis nam distinctio."
   },
   {
-    "ID": "29fe547a536749f480c89057",
-    "title": "Small Cotton Computer",
+    "ID": 7,
     "status": "drafted",
-    "values": {
-      "upc": "MC0767800505511993U63694809",
-      "msrp": "972.37",
-      "name": "Generic Steel Ball",
-      "price": "186.82",
-      "description": "Error qui praesentium ducimus minima. Facilis et dolor explicabo eos beatae illum."
-    }
+    "upc": "MC0767800505511993U63694809",
+    "name": "Generic Steel Ball",
+    "price": "186.82",
+    "description":
+      "Error qui praesentium ducimus minima. Facilis et dolor explicabo eos beatae illum."
   },
   {
-    "ID": "7427da5d9dfd427cac19559b",
-    "title": "Rustic Plastic Table",
+    "ID": 8,
     "status": "published",
-    "values": {
-      "upc": "CZ7613200070016369008094",
-      "msrp": "993.19",
-      "name": "Refined Frozen Soap",
-      "price": "978.18",
-      "description":
-        "Aliquam eos quae similique excepturi cumque ut voluptatibus. A consequuntur illo quis provident. Vitae soluta quisquam ratione aut et vel voluptates omnis. Et voluptatum placeat quae voluptatibus dolores nihil natus. Dignissimos quia occaecati eveniet laborum saepe. Laboriosam tempore sunt nulla sed voluptatem repudiandae."
-    }
+    "upc": "CZ7613200070016369008094",
+    "name": "Refined Frozen Soap",
+    "price": "978.18",
+    "description":
+      "Aliquam eos quae similique excepturi cumque ut voluptatibus. A consequuntur illo quis provident. Vitae soluta quisquam ratione aut et vel voluptates omnis. Et voluptatum placeat quae voluptatibus dolores nihil natus. Dignissimos quia occaecati eveniet laborum saepe. Laboriosam tempore sunt nulla sed voluptatem repudiandae."
   },
   {
-    "ID": "2e3cc275aeb8446bb01fe540",
-    "title": "Practical Fresh Table",
+    "ID": 9,
     "status": "published",
-    "values": {
-      "upc": "LI90206548938065A6261",
-      "msrp": "896.70",
-      "name": "Refined Metal Pants",
-      "price": "848.41",
-      "description": "Assumenda ut autem in ducimus modi in ab et voluptatibus. Delectus corporis et."
-    }
+    "upc": "LI90206548938065A6261",
+    "name": "Refined Metal Pants",
+    "price": "848.41",
+    "description": "Assumenda ut autem in ducimus modi in ab et voluptatibus. Delectus corporis et."
   },
   {
-    "ID": "796a9d5d17474f8eb0fc31a0",
-    "title": "Intelligent Wooden Salad",
+    "ID": 10,
     "status": "archived",
-    "values": {
-      "upc": "FI4407800839506669",
-      "msrp": "389.86",
-      "name": "Licensed Frozen Car",
-      "price": "928.12",
-      "description": "Optio iste laboriosam. Saepe aut ut veniam repellat. Tenetur in nesciunt aliquam impedit autem. Est ut magnam culpa rerum hic."
-    }
+    "upc": "FI4407800839506669",
+    "name": "Licensed Frozen Car",
+    "price": "928.12",
+    "description":
+      "Optio iste laboriosam. Saepe aut ut veniam repellat. Tenetur in nesciunt aliquam impedit autem. Est ut magnam culpa rerum hic."
   },
   {
-    "ID": "255bdf352c8a41b8bd6fe171",
-    "title": "Incredible Soft Soap",
+    "ID": 11,
     "status": "scheduled",
-    "values": {
-      "upc": "MC727973008924W5584B8060367",
-      "msrp": "731.65",
-      "name": "Practical Plastic Bike",
-      "price": "375.59",
-      "description":
-        "Iste esse harum explicabo veniam omnis nostrum fuga officia. Temporibus iusto minus voluptatem quibusdam porro et necessitatibus deleniti quia. Et tempore omnis sunt aliquid. Et quam error ea. Aut voluptas deserunt voluptatem. Aspernatur non sit ut illo hic sint et."
-    }
+    "upc": "MC727973008924W5584B8060367",
+    "name": "Practical Plastic Bike",
+    "price": "375.59",
+    "description":
+      "Iste esse harum explicabo veniam omnis nostrum fuga officia. Temporibus iusto minus voluptatem quibusdam porro et necessitatibus deleniti quia. Et tempore omnis sunt aliquid. Et quam error ea. Aut voluptas deserunt voluptatem. Aspernatur non sit ut illo hic sint et."
   },
   {
-    "ID": "f9aee6c292764d64859e61d3",
-    "title": "Small Soft Tuna",
+    "ID": 12,
     "status": "published",
-    "values": {
-      "upc": "ME81007821000530336168",
-      "msrp": "446.55",
-      "name": "Fantastic Plastic Cheese",
-      "price": "759.97",
-      "description":
-        "Laborum explicabo voluptatum ratione maiores magnam consequatur quaerat et explicabo. Aut animi qui aspernatur natus exercitationem nostrum. Exercitationem sunt ex et quasi debitis nostrum. Blanditiis voluptatem eligendi eveniet adipisci qui. Cupiditate magni voluptatem at."
-    }
+    "upc": "ME81007821000530336168",
+    "name": "Fantastic Plastic Cheese",
+    "price": "759.97",
+    "description":
+      "Laborum explicabo voluptatum ratione maiores magnam consequatur quaerat et explicabo. Aut animi qui aspernatur natus exercitationem nostrum. Exercitationem sunt ex et quasi debitis nostrum. Blanditiis voluptatem eligendi eveniet adipisci qui. Cupiditate magni voluptatem at."
   }
 ]
