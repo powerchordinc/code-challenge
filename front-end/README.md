@@ -1,6 +1,6 @@
 # Code Challenge
 
-We need to build a flexible site for displaying products. The site takes a schema, and according to that schema, displays the appropriate products.
+We need to build a flexible site for displaying products using [React](https://reactjs.org/) and [Flow](https://flow.org/). The site takes a schema, and according to that schema, displays the appropriate products. 
 
 ## The Schema
 
