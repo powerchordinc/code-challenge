@@ -5,69 +5,37 @@
       "label": "ID",
       "key": "ID",
       "position": 0,
-      "presentation": "text",
-      "inUse": true
+      "presentation": "text"
     },
     {
       "label": "Status",
       "key": "status",
-      "listOptions": {
-        "canList": true
-      },
       "position": 6,
-      "presentation": "select",
-      "restrictions": {
-        "required": false,
-        "enums": ["drafted", "published", "scheduled", "expired", "archived"]
-      },
-      "inUse": true
+      "presentation": "select"
     },
     {
       "label": "Name",
       "key": "name",
-      "listOptions": {
-        "canList": true
-      },
       "position": 1,
-      "presentation": "text",
-      "inUse": true
+      "presentation": "text"
     },
     {
       "label": "Description",
       "key": "description",
-      "listOptions": {
-        "canList": true
-      },
       "position": 2,
-      "presentation": "text",
-      "inUse": true
+      "presentation": "text"
     },
     {
       "label": "UPC",
       "key": "upc",
       "position": 3,
-      "presentation": "text",
-      "inUse": true
-    },
-    {
-      "label": "MSRP",
-      "key": "msrp",
-      "listOptions": {
-        "canList": true
-      },
-      "position": 4,
-      "presentation": "currency",
-      "inUse": false
+      "presentation": "text"
     },
     {
       "label": "Price",
       "key": "price",
-      "listOptions": {
-        "canList": true
-      },
       "position": 5,
-      "presentation": "currency",
-      "inUse": true
+      "presentation": "currency"
     }
   ]
 }
