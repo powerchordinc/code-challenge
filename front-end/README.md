@@ -6,7 +6,7 @@ We need to build a flexible site for displaying products. The site takes a schem
 
 The schema is just a json document that contains within it the rules necessary for displaying a document's attributes.
 
-Within the schema there is an array of fields which each represent an attribute on the product data object. You will also find a `types` directory within each `challenge_` directory that contains the flow definition for the schema.
+Within the `schema` there is an array of `fields` which each represent an attribute on the product data object. The `key` property of the field associates the product values with the schema's fields. Within the `types` directory for each challenge a flow definition exists for your reference.
 
 # Challenge 1
 
